@@ -19,8 +19,4 @@ classify(image_path='images/fil.jpg')
 
 
 
-print("\n\n\n")
-classify(image_path='images/someone.jpg')
-
-
 
