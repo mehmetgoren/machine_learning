@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Aug 20 13:40:39 2018
-
-@author: mehme
+Simple Linear Regression
 """
 
 import numpy as np
