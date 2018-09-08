@@ -17,6 +17,7 @@ yarn-error.log*
 *.sw*
 
 *.zip
+*.jpg
 
 Resources
 data
