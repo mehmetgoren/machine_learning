@@ -1,0 +1,2 @@
+model_checkpoint_path: "autoencoder.checkpoints"
+all_model_checkpoint_paths: "autoencoder.checkpoints"
